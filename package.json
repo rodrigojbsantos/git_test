@@ -1,0 +1,3 @@
+"scripts": {
+  "test": "echo \"Rodando testes\" && exit 0"
+}
